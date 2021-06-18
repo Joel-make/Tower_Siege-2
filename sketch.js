@@ -15,7 +15,7 @@ var visibility=0;
 function preload(){
   bg=loadImage("bg.jpg");
   text1=loadImage("text.png");
-  text2=loadImage("text2.png");
+  text2=loadImage("text2.PNG");
 }
 function setup() {
   createCanvas(900,400);
